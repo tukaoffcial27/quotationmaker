@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://quotationmakerpro.netlify.app/sitemap.xml
+Sitemap: https://quotationmaker.guidify.app/sitemap.xml

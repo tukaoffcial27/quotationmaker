@@ -1,0 +1,1862 @@
+[
+  {
+    "city": "Aceh Barat",
+    "slug": "aceh-barat"
+  },
+  {
+    "city": "Aceh Barat Daya",
+    "slug": "aceh-barat-daya"
+  },
+  {
+    "city": "Aceh Besar",
+    "slug": "aceh-besar"
+  },
+  {
+    "city": "Aceh Jaya",
+    "slug": "aceh-jaya"
+  },
+  {
+    "city": "Aceh Selatan",
+    "slug": "aceh-selatan"
+  },
+  {
+    "city": "Aceh Singkil",
+    "slug": "aceh-singkil"
+  },
+  {
+    "city": "Aceh Tamiang",
+    "slug": "aceh-tamiang"
+  },
+  {
+    "city": "Aceh Tengah",
+    "slug": "aceh-tengah"
+  },
+  {
+    "city": "Aceh Tenggara",
+    "slug": "aceh-tenggara"
+  },
+  {
+    "city": "Aceh Timur",
+    "slug": "aceh-timur"
+  },
+  {
+    "city": "Aceh Utara",
+    "slug": "aceh-utara"
+  },
+  {
+    "city": "Agam",
+    "slug": "agam"
+  },
+  {
+    "city": "Alor",
+    "slug": "alor"
+  },
+  {
+    "city": "Ambon",
+    "slug": "ambon"
+  },
+  {
+    "city": "Asahan",
+    "slug": "asahan"
+  },
+  {
+    "city": "Asmat",
+    "slug": "asmat"
+  },
+  {
+    "city": "Atambua",
+    "slug": "atambua"
+  },
+  {
+    "city": "Banda Aceh",
+    "slug": "banda-aceh"
+  },
+  {
+    "city": "Bandar Lampung",
+    "slug": "bandar-lampung"
+  },
+  {
+    "city": "Bandung",
+    "slug": "bandung"
+  },
+  {
+    "city": "Banggai",
+    "slug": "banggai"
+  },
+  {
+    "city": "Banggai Kepulauan",
+    "slug": "banggai-kepulauan"
+  },
+  {
+    "city": "Bangkalan",
+    "slug": "bangkalan"
+  },
+  {
+    "city": "Bangli",
+    "slug": "bangli"
+  },
+  {
+    "city": "Banjar",
+    "slug": "banjar"
+  },
+  {
+    "city": "Banjarbaru",
+    "slug": "banjarbaru"
+  },
+  {
+    "city": "Banjarmasin",
+    "slug": "banjarmasin"
+  },
+  {
+    "city": "Banjarnegara",
+    "slug": "banjarnegara"
+  },
+  {
+    "city": "Bantaeng",
+    "slug": "bantaeng"
+  },
+  {
+    "city": "Bantul",
+    "slug": "bantul"
+  },
+  {
+    "city": "Banyuasin",
+    "slug": "banyuasin"
+  },
+  {
+    "city": "Banyumas",
+    "slug": "banyumas"
+  },
+  {
+    "city": "Banyuwangi",
+    "slug": "banyuwangi"
+  },
+  {
+    "city": "Barito Kuala",
+    "slug": "barito-kuala"
+  },
+  {
+    "city": "Barito Selatan",
+    "slug": "barito-selatan"
+  },
+  {
+    "city": "Barito Timur",
+    "slug": "barito-timur"
+  },
+  {
+    "city": "Barito Utara",
+    "slug": "barito-utara"
+  },
+  {
+    "city": "Barru",
+    "slug": "barru"
+  },
+  {
+    "city": "Batam",
+    "slug": "batam"
+  },
+  {
+    "city": "Batang",
+    "slug": "batang"
+  },
+  {
+    "city": "Batang Hari",
+    "slug": "batang-hari"
+  },
+  {
+    "city": "Batu",
+    "slug": "batu"
+  },
+  {
+    "city": "Batu Bara",
+    "slug": "batu-bara"
+  },
+  {
+    "city": "Bau-Bau",
+    "slug": "bau-bau"
+  },
+  {
+    "city": "Bekasi",
+    "slug": "bekasi"
+  },
+  {
+    "city": "Belitung",
+    "slug": "belitung"
+  },
+  {
+    "city": "Belitung Timur",
+    "slug": "belitung-timur"
+  },
+  {
+    "city": "Belu",
+    "slug": "belu"
+  },
+  {
+    "city": "Bener Meriah",
+    "slug": "bener-meriah"
+  },
+  {
+    "city": "Bengkalis",
+    "slug": "bengkalis"
+  },
+  {
+    "city": "Bengkayang",
+    "slug": "bengkayang"
+  },
+  {
+    "city": "Bengkulu",
+    "slug": "bengkulu"
+  },
+  {
+    "city": "Bengkulu Selatan",
+    "slug": "bengkulu-selatan"
+  },
+  {
+    "city": "Bengkulu Tengah",
+    "slug": "bengkulu-tengah"
+  },
+  {
+    "city": "Bengkulu Utara",
+    "slug": "bengkulu-utara"
+  },
+  {
+    "city": "Berau",
+    "slug": "berau"
+  },
+  {
+    "city": "Biak Numfor",
+    "slug": "biak-numfor"
+  },
+  {
+    "city": "Bima",
+    "slug": "bima"
+  },
+  {
+    "city": "Binjai",
+    "slug": "binjai"
+  },
+  {
+    "city": "Bintan",
+    "slug": "bintan"
+  },
+  {
+    "city": "Bireuen",
+    "slug": "bireuen"
+  },
+  {
+    "city": "Bitung",
+    "slug": "bitung"
+  },
+  {
+    "city": "Blitar",
+    "slug": "blitar"
+  },
+  {
+    "city": "Blora",
+    "slug": "blora"
+  },
+  {
+    "city": "Boalemo",
+    "slug": "boalemo"
+  },
+  {
+    "city": "Bogor",
+    "slug": "bogor"
+  },
+  {
+    "city": "Bojonegoro",
+    "slug": "bojonegoro"
+  },
+  {
+    "city": "Bolaang Mongondow",
+    "slug": "bolaang-mongondow"
+  },
+  {
+    "city": "Bolaang Mongondow Selatan",
+    "slug": "bolaang-mongondow-selatan"
+  },
+  {
+    "city": "Bolaang Mongondow Timur",
+    "slug": "bolaang-mongondow-timur"
+  },
+  {
+    "city": "Bolaang Mongondow Utara",
+    "slug": "bolaang-mongondow-utara"
+  },
+  {
+    "city": "Bombana",
+    "slug": "bombana"
+  },
+  {
+    "city": "Bondowoso",
+    "slug": "bondowoso"
+  },
+  {
+    "city": "Bone",
+    "slug": "bone"
+  },
+  {
+    "city": "Bone Bolango",
+    "slug": "bone-bolango"
+  },
+  {
+    "city": "Bontang",
+    "slug": "bontang"
+  },
+  {
+    "city": "Boven Digoel",
+    "slug": "boven-digoel"
+  },
+  {
+    "city": "Boyolali",
+    "slug": "boyolali"
+  },
+  {
+    "city": "Brebes",
+    "slug": "brebes"
+  },
+  {
+    "city": "Bukittinggi",
+    "slug": "bukittinggi"
+  },
+  {
+    "city": "Buleleng",
+    "slug": "buleleng"
+  },
+  {
+    "city": "Bulukumba",
+    "slug": "bulukumba"
+  },
+  {
+    "city": "Bulungan",
+    "slug": "bulungan"
+  },
+  {
+    "city": "Bungo",
+    "slug": "bungo"
+  },
+  {
+    "city": "Buol",
+    "slug": "buol"
+  },
+  {
+    "city": "Buru",
+    "slug": "buru"
+  },
+  {
+    "city": "Buru Selatan",
+    "slug": "buru-selatan"
+  },
+  {
+    "city": "Buton",
+    "slug": "buton"
+  },
+  {
+    "city": "Buton Utara",
+    "slug": "buton-utara"
+  },
+  {
+    "city": "Ciamis",
+    "slug": "ciamis"
+  },
+  {
+    "city": "Cianjur",
+    "slug": "cianjur"
+  },
+  {
+    "city": "Cilacap",
+    "slug": "cilacap"
+  },
+  {
+    "city": "Cilegon",
+    "slug": "cilegon"
+  },
+  {
+    "city": "Cimahi",
+    "slug": "cimahi"
+  },
+  {
+    "city": "Cirebon",
+    "slug": "cirebon"
+  },
+  {
+    "city": "Dairi",
+    "slug": "dairi"
+  },
+  {
+    "city": "Deiyai",
+    "slug": "deiyai"
+  },
+  {
+    "city": "Deli Serdang",
+    "slug": "deli-serdang"
+  },
+  {
+    "city": "Demak",
+    "slug": "demak"
+  },
+  {
+    "city": "Denpasar",
+    "slug": "denpasar"
+  },
+  {
+    "city": "Depok",
+    "slug": "depok"
+  },
+  {
+    "city": "Dharmasraya",
+    "slug": "dharmasraya"
+  },
+  {
+    "city": "Dogiyai",
+    "slug": "dogiyai"
+  },
+  {
+    "city": "Dompu",
+    "slug": "dompu"
+  },
+  {
+    "city": "Donggala",
+    "slug": "donggala"
+  },
+  {
+    "city": "Dumai",
+    "slug": "dumai"
+  },
+  {
+    "city": "Empat Lawang",
+    "slug": "empat-lawang"
+  },
+  {
+    "city": "Ende",
+    "slug": "ende"
+  },
+  {
+    "city": "Enrekang",
+    "slug": "enrekang"
+  },
+  {
+    "city": "Fakfak",
+    "slug": "fakfak"
+  },
+  {
+    "city": "Flores Timur",
+    "slug": "flores-timur"
+  },
+  {
+    "city": "Garut",
+    "slug": "garut"
+  },
+  {
+    "city": "Gayo Lues",
+    "slug": "gayo-lues"
+  },
+  {
+    "city": "Gianyar",
+    "slug": "gianyar"
+  },
+  {
+    "city": "Gorontalo",
+    "slug": "gorontalo"
+  },
+  {
+    "city": "Gorontalo Utara",
+    "slug": "gorontalo-utara"
+  },
+  {
+    "city": "Gowa",
+    "slug": "gowa"
+  },
+  {
+    "city": "Gresik",
+    "slug": "gresik"
+  },
+  {
+    "city": "Grobogan",
+    "slug": "grobogan"
+  },
+  {
+    "city": "Gunung Kidul",
+    "slug": "gunung-kidul"
+  },
+  {
+    "city": "Gunung Mas",
+    "slug": "gunung-mas"
+  },
+  {
+    "city": "Gunungsitoli",
+    "slug": "gunungsitoli"
+  },
+  {
+    "city": "Halmahera Barat",
+    "slug": "halmahera-barat"
+  },
+  {
+    "city": "Halmahera Selatan",
+    "slug": "halmahera-selatan"
+  },
+  {
+    "city": "Halmahera Tengah",
+    "slug": "halmahera-tengah"
+  },
+  {
+    "city": "Halmahera Timur",
+    "slug": "halmahera-timur"
+  },
+  {
+    "city": "Halmahera Utara",
+    "slug": "halmahera-utara"
+  },
+  {
+    "city": "Hulu Sungai Selatan",
+    "slug": "hulu-sungai-selatan"
+  },
+  {
+    "city": "Hulu Sungai Tengah",
+    "slug": "hulu-sungai-tengah"
+  },
+  {
+    "city": "Hulu Sungai Utara",
+    "slug": "hulu-sungai-utara"
+  },
+  {
+    "city": "Humbang Hasundutan",
+    "slug": "humbang-hasundutan"
+  },
+  {
+    "city": "Indragiri Hilir",
+    "slug": "indragiri-hilir"
+  },
+  {
+    "city": "Indragiri Hulu",
+    "slug": "indragiri-hulu"
+  },
+  {
+    "city": "Indramayu",
+    "slug": "indramayu"
+  },
+  {
+    "city": "Intan Jaya",
+    "slug": "intan-jaya"
+  },
+  {
+    "city": "Jakarta Barat",
+    "slug": "jakarta-barat"
+  },
+  {
+    "city": "Jakarta Pusat",
+    "slug": "jakarta-pusat"
+  },
+  {
+    "city": "Jakarta Selatan",
+    "slug": "jakarta-selatan"
+  },
+  {
+    "city": "Jakarta Timur",
+    "slug": "jakarta-timur"
+  },
+  {
+    "city": "Jakarta Utara",
+    "slug": "jakarta-utara"
+  },
+  {
+    "city": "Jambi",
+    "slug": "jambi"
+  },
+  {
+    "city": "Jayapura",
+    "slug": "jayapura"
+  },
+  {
+    "city": "Jayawijaya",
+    "slug": "jayawijaya"
+  },
+  {
+    "city": "Jember",
+    "slug": "jember"
+  },
+  {
+    "city": "Jembrana",
+    "slug": "jembrana"
+  },
+  {
+    "city": "Jeneponto",
+    "slug": "jeneponto"
+  },
+  {
+    "city": "Jepara",
+    "slug": "jepara"
+  },
+  {
+    "city": "Jombang",
+    "slug": "jombang"
+  },
+  {
+    "city": "Kaimana",
+    "slug": "kaimana"
+  },
+  {
+    "city": "Kampar",
+    "slug": "kampar"
+  },
+  {
+    "city": "Kapuas",
+    "slug": "kapuas"
+  },
+  {
+    "city": "Kapuas Hulu",
+    "slug": "kapuas-hulu"
+  },
+  {
+    "city": "Karanganyar",
+    "slug": "karanganyar"
+  },
+  {
+    "city": "Karangasem",
+    "slug": "karangasem"
+  },
+  {
+    "city": "Karawang",
+    "slug": "karawang"
+  },
+  {
+    "city": "Karimun",
+    "slug": "karimun"
+  },
+  {
+    "city": "Karo",
+    "slug": "karo"
+  },
+  {
+    "city": "Katingan",
+    "slug": "katingan"
+  },
+  {
+    "city": "Kaur",
+    "slug": "kaur"
+  },
+  {
+    "city": "Kayong Utara",
+    "slug": "kayong-utara"
+  },
+  {
+    "city": "Kebumen",
+    "slug": "kebumen"
+  },
+  {
+    "city": "Kediri",
+    "slug": "kediri"
+  },
+  {
+    "city": "Keerom",
+    "slug": "keerom"
+  },
+  {
+    "city": "Kendal",
+    "slug": "kendal"
+  },
+  {
+    "city": "Kendari",
+    "slug": "kendari"
+  },
+  {
+    "city": "Kepahiang",
+    "slug": "kepahiang"
+  },
+  {
+    "city": "Kepulauan Anambas",
+    "slug": "kepulauan-anambas"
+  },
+  {
+    "city": "Kepulauan Aru",
+    "slug": "kepulauan-aru"
+  },
+  {
+    "city": "Kepulauan Mentawai",
+    "slug": "kepulauan-mentawai"
+  },
+  {
+    "city": "Kepulauan Meranti",
+    "slug": "kepulauan-meranti"
+  },
+  {
+    "city": "Kepulauan Sangihe",
+    "slug": "kepulauan-sangihe"
+  },
+  {
+    "city": "Kepulauan Selayar",
+    "slug": "kepulauan-selayar"
+  },
+  {
+    "city": "Kepulauan Seribu",
+    "slug": "kepulauan-seribu"
+  },
+  {
+    "city": "Kepulauan Siau Tagulandang Biaro",
+    "slug": "kepulauan-siau-tagulandang-biaro"
+  },
+  {
+    "city": "Kepulauan Sula",
+    "slug": "kepulauan-sula"
+  },
+  {
+    "city": "Kepulauan Talaud",
+    "slug": "kepulauan-talaud"
+  },
+  {
+    "city": "Kepulauan Yapen",
+    "slug": "kepulauan-yapen"
+  },
+  {
+    "city": "Kerinci",
+    "slug": "kerinci"
+  },
+  {
+    "city": "Ketapang",
+    "slug": "ketapang"
+  },
+  {
+    "city": "Klaten",
+    "slug": "klaten"
+  },
+  {
+    "city": "Klungkung",
+    "slug": "klungkung"
+  },
+  {
+    "city": "Kolaka",
+    "slug": "kolaka"
+  },
+  {
+    "city": "Kolaka Utara",
+    "slug": "kolaka-utara"
+  },
+  {
+    "city": "Konawe",
+    "slug": "konawe"
+  },
+  {
+    "city": "Konawe Selatan",
+    "slug": "konawe-selatan"
+  },
+  {
+    "city": "Konawe Utara",
+    "slug": "konawe-utara"
+  },
+  {
+    "city": "Kotabaru",
+    "slug": "kotabaru"
+  },
+  {
+    "city": "Kotamobagu",
+    "slug": "kotamobagu"
+  },
+  {
+    "city": "Kotawaringin Barat",
+    "slug": "kotawaringin-barat"
+  },
+  {
+    "city": "Kotawaringin Timur",
+    "slug": "kotawaringin-timur"
+  },
+  {
+    "city": "Kuantan Singingi",
+    "slug": "kuantan-singingi"
+  },
+  {
+    "city": "Kubu Raya",
+    "slug": "kubu-raya"
+  },
+  {
+    "city": "Kudus",
+    "slug": "kudus"
+  },
+  {
+    "city": "Kulon Progo",
+    "slug": "kulon-progo"
+  },
+  {
+    "city": "Kuningan",
+    "slug": "kuningan"
+  },
+  {
+    "city": "Kupang",
+    "slug": "kupang"
+  },
+  {
+    "city": "Kutai Barat",
+    "slug": "kutai-barat"
+  },
+  {
+    "city": "Kutai Kartanegara",
+    "slug": "kutai-kartanegara"
+  },
+  {
+    "city": "Kutai Timur",
+    "slug": "kutai-timur"
+  },
+  {
+    "city": "Labuhan Batu",
+    "slug": "labuhan-batu"
+  },
+  {
+    "city": "Labuhan Batu Selatan",
+    "slug": "labuhan-batu-selatan"
+  },
+  {
+    "city": "Labuhan Batu Utara",
+    "slug": "labuhan-batu-utara"
+  },
+  {
+    "city": "Lahat",
+    "slug": "lahat"
+  },
+  {
+    "city": "Lamandau",
+    "slug": "lamandau"
+  },
+  {
+    "city": "Lamongan",
+    "slug": "lamongan"
+  },
+  {
+    "city": "Lampung Barat",
+    "slug": "lampung-barat"
+  },
+  {
+    "city": "Lampung Selatan",
+    "slug": "lampung-selatan"
+  },
+  {
+    "city": "Lampung Tengah",
+    "slug": "lampung-tengah"
+  },
+  {
+    "city": "Lampung Timur",
+    "slug": "lampung-timur"
+  },
+  {
+    "city": "Lampung Utara",
+    "slug": "lampung-utara"
+  },
+  {
+    "city": "Landak",
+    "slug": "landak"
+  },
+  {
+    "city": "Langkat",
+    "slug": "langkat"
+  },
+  {
+    "city": "Langsa",
+    "slug": "langsa"
+  },
+  {
+    "city": "Lanny Jaya",
+    "slug": "lanny-jaya"
+  },
+  {
+    "city": "Lebak",
+    "slug": "lebak"
+  },
+  {
+    "city": "Lebong",
+    "slug": "lebong"
+  },
+  {
+    "city": "Lembata",
+    "slug": "lembata"
+  },
+  {
+    "city": "Lhokseumawe",
+    "slug": "lhokseumawe"
+  },
+  {
+    "city": "Limboto",
+    "slug": "limboto"
+  },
+  {
+    "city": "Lingga",
+    "slug": "lingga"
+  },
+  {
+    "city": "Lombok Barat",
+    "slug": "lombok-barat"
+  },
+  {
+    "city": "Lombok Tengah",
+    "slug": "lombok-tengah"
+  },
+  {
+    "city": "Lombok Timur",
+    "slug": "lombok-timur"
+  },
+  {
+    "city": "Lombok Utara",
+    "slug": "lombok-utara"
+  },
+  {
+    "city": "Lubuk Linggau",
+    "slug": "lubuk-linggau"
+  },
+  {
+    "city": "Lumajang",
+    "slug": "lumajang"
+  },
+  {
+    "city": "Luwu",
+    "slug": "luwu"
+  },
+  {
+    "city": "Luwu Timur",
+    "slug": "luwu-timur"
+  },
+  {
+    "city": "Luwu Utara",
+    "slug": "luwu-utara"
+  },
+  {
+    "city": "Madiun",
+    "slug": "madiun"
+  },
+  {
+    "city": "Magelang",
+    "slug": "magelang"
+  },
+  {
+    "city": "Magetan",
+    "slug": "magetan"
+  },
+  {
+    "city": "Majalengka",
+    "slug": "majalengka"
+  },
+  {
+    "city": "Majene",
+    "slug": "majene"
+  },
+  {
+    "city": "Makassar",
+    "slug": "makassar"
+  },
+  {
+    "city": "Malang",
+    "slug": "malang"
+  },
+  {
+    "city": "Malinau",
+    "slug": "malinau"
+  },
+  {
+    "city": "Maluku Barat Daya",
+    "slug": "maluku-barat-daya"
+  },
+  {
+    "city": "Maluku Tengah",
+    "slug": "maluku-tengah"
+  },
+  {
+    "city": "Maluku Tenggara",
+    "slug": "maluku-tenggara"
+  },
+  {
+    "city": "Maluku Tenggara Barat",
+    "slug": "maluku-tenggara-barat"
+  },
+  {
+    "city": "Mamasa",
+    "slug": "mamasa"
+  },
+  {
+    "city": "Mamberamo Raya",
+    "slug": "mamberamo-raya"
+  },
+  {
+    "city": "Mamberamo Tengah",
+    "slug": "mamberamo-tengah"
+  },
+  {
+    "city": "Mamuju",
+    "slug": "mamuju"
+  },
+  {
+    "city": "Mamuju Utara",
+    "slug": "mamuju-utara"
+  },
+  {
+    "city": "Manado",
+    "slug": "manado"
+  },
+  {
+    "city": "Mandailing Natal",
+    "slug": "mandailing-natal"
+  },
+  {
+    "city": "Manggarai",
+    "slug": "manggarai"
+  },
+  {
+    "city": "Manggarai Barat",
+    "slug": "manggarai-barat"
+  },
+  {
+    "city": "Manggarai Timur",
+    "slug": "manggarai-timur"
+  },
+  {
+    "city": "Manokwari",
+    "slug": "manokwari"
+  },
+  {
+    "city": "Mapurujaya",
+    "slug": "mapurujaya"
+  },
+  {
+    "city": "Maros",
+    "slug": "maros"
+  },
+  {
+    "city": "Mataram",
+    "slug": "mataram"
+  },
+  {
+    "city": "Maybrat",
+    "slug": "maybrat"
+  },
+  {
+    "city": "Medan",
+    "slug": "medan"
+  },
+  {
+    "city": "Melawi",
+    "slug": "melawi"
+  },
+  {
+    "city": "Merangin",
+    "slug": "merangin"
+  },
+  {
+    "city": "Merauke",
+    "slug": "merauke"
+  },
+  {
+    "city": "Mesuji",
+    "slug": "mesuji"
+  },
+  {
+    "city": "Metro",
+    "slug": "metro"
+  },
+  {
+    "city": "Mimika",
+    "slug": "mimika"
+  },
+  {
+    "city": "Minahasa",
+    "slug": "minahasa"
+  },
+  {
+    "city": "Minahasa Selatan",
+    "slug": "minahasa-selatan"
+  },
+  {
+    "city": "Minahasa Tenggara",
+    "slug": "minahasa-tenggara"
+  },
+  {
+    "city": "Minahasa Utara",
+    "slug": "minahasa-utara"
+  },
+  {
+    "city": "Mojokerto",
+    "slug": "mojokerto"
+  },
+  {
+    "city": "Morowali",
+    "slug": "morowali"
+  },
+  {
+    "city": "Muara Enim",
+    "slug": "muara-enim"
+  },
+  {
+    "city": "Muaro Jambi",
+    "slug": "muaro-jambi"
+  },
+  {
+    "city": "Muko Muko",
+    "slug": "muko-muko"
+  },
+  {
+    "city": "Muna",
+    "slug": "muna"
+  },
+  {
+    "city": "Murung Raya",
+    "slug": "murung-raya"
+  },
+  {
+    "city": "Musi Banyuasin",
+    "slug": "musi-banyuasin"
+  },
+  {
+    "city": "Musi Rawas",
+    "slug": "musi-rawas"
+  },
+  {
+    "city": "Nabire",
+    "slug": "nabire"
+  },
+  {
+    "city": "Nagan Raya",
+    "slug": "nagan-raya"
+  },
+  {
+    "city": "Nagekeo",
+    "slug": "nagekeo"
+  },
+  {
+    "city": "Natuna",
+    "slug": "natuna"
+  },
+  {
+    "city": "Nduga",
+    "slug": "nduga"
+  },
+  {
+    "city": "Ngada",
+    "slug": "ngada"
+  },
+  {
+    "city": "Nganjuk",
+    "slug": "nganjuk"
+  },
+  {
+    "city": "Ngawi",
+    "slug": "ngawi"
+  },
+  {
+    "city": "Nias",
+    "slug": "nias"
+  },
+  {
+    "city": "Nias Barat",
+    "slug": "nias-barat"
+  },
+  {
+    "city": "Nias Selatan",
+    "slug": "nias-selatan"
+  },
+  {
+    "city": "Nias Utara",
+    "slug": "nias-utara"
+  },
+  {
+    "city": "Nunukan",
+    "slug": "nunukan"
+  },
+  {
+    "city": "Ogan Ilir",
+    "slug": "ogan-ilir"
+  },
+  {
+    "city": "Ogan Komering Ilir",
+    "slug": "ogan-komering-ilir"
+  },
+  {
+    "city": "Ogan Komering Ulu",
+    "slug": "ogan-komering-ulu"
+  },
+  {
+    "city": "Ogan Komering Ulu Selatan",
+    "slug": "ogan-komering-ulu-selatan"
+  },
+  {
+    "city": "Ogan Komering Ulu Timur",
+    "slug": "ogan-komering-ulu-timur"
+  },
+  {
+    "city": "Pacitan",
+    "slug": "pacitan"
+  },
+  {
+    "city": "Padang",
+    "slug": "padang"
+  },
+  {
+    "city": "Padang Lawas",
+    "slug": "padang-lawas"
+  },
+  {
+    "city": "Padang Lawas Utara",
+    "slug": "padang-lawas-utara"
+  },
+  {
+    "city": "Padang Panjang",
+    "slug": "padang-panjang"
+  },
+  {
+    "city": "Padang Pariaman",
+    "slug": "padang-pariaman"
+  },
+  {
+    "city": "Padang Sidempuan",
+    "slug": "padang-sidempuan"
+  },
+  {
+    "city": "Pagar Alam",
+    "slug": "pagar-alam"
+  },
+  {
+    "city": "Pakpak Bharat",
+    "slug": "pakpak-bharat"
+  },
+  {
+    "city": "Palangka Raya",
+    "slug": "palangka-raya"
+  },
+  {
+    "city": "Palembang",
+    "slug": "palembang"
+  },
+  {
+    "city": "Palopo",
+    "slug": "palopo"
+  },
+  {
+    "city": "Palu",
+    "slug": "palu"
+  },
+  {
+    "city": "Pamekasan",
+    "slug": "pamekasan"
+  },
+  {
+    "city": "Pandeglang",
+    "slug": "pandeglang"
+  },
+  {
+    "city": "Pangkal Pinang",
+    "slug": "pangkal-pinang"
+  },
+  {
+    "city": "Pangkajene Kepulauan",
+    "slug": "pangkajene-kepulauan"
+  },
+  {
+    "city": "Paniai",
+    "slug": "paniai"
+  },
+  {
+    "city": "Pare-Pare",
+    "slug": "pare-pare"
+  },
+  {
+    "city": "Pariaman",
+    "slug": "pariaman"
+  },
+  {
+    "city": "Parigi Moutong",
+    "slug": "parigi-moutong"
+  },
+  {
+    "city": "Pasaman",
+    "slug": "pasaman"
+  },
+  {
+    "city": "Pasaman Barat",
+    "slug": "pasaman-barat"
+  },
+  {
+    "city": "Paser",
+    "slug": "paser"
+  },
+  {
+    "city": "Pasuruan",
+    "slug": "pasuruan"
+  },
+  {
+    "city": "Pati",
+    "slug": "pati"
+  },
+  {
+    "city": "Payakumbuh",
+    "slug": "payakumbuh"
+  },
+  {
+    "city": "Pegunungan Arfak",
+    "slug": "pegunungan-arfak"
+  },
+  {
+    "city": "Pegunungan Bintang",
+    "slug": "pegunungan-bintang"
+  },
+  {
+    "city": "Pekalongan",
+    "slug": "pekalongan"
+  },
+  {
+    "city": "Pekanbaru",
+    "slug": "pekanbaru"
+  },
+  {
+    "city": "Pelalawan",
+    "slug": "pelalawan"
+  },
+  {
+    "city": "Pemalang",
+    "slug": "pemalang"
+  },
+  {
+    "city": "Pematang Siantar",
+    "slug": "pematang-siantar"
+  },
+  {
+    "city": "Penajam Paser Utara",
+    "slug": "penajam-paser-utara"
+  },
+  {
+    "city": "Pesawaran",
+    "slug": "pesawaran"
+  },
+  {
+    "city": "Pesisir Barat",
+    "slug": "pesisir-barat"
+  },
+  {
+    "city": "Pesisir Selatan",
+    "slug": "pesisir-selatan"
+  },
+  {
+    "city": "Pidie",
+    "slug": "pidie"
+  },
+  {
+    "city": "Pidie Jaya",
+    "slug": "pidie-jaya"
+  },
+  {
+    "city": "Pinrang",
+    "slug": "pinrang"
+  },
+  {
+    "city": "Pohuwato",
+    "slug": "pohuwato"
+  },
+  {
+    "city": "Polewali Mandar",
+    "slug": "polewali-mandar"
+  },
+  {
+    "city": "Ponorogo",
+    "slug": "ponorogo"
+  },
+  {
+    "city": "Pontianak",
+    "slug": "pontianak"
+  },
+  {
+    "city": "Poso",
+    "slug": "poso"
+  },
+  {
+    "city": "Prabumulih",
+    "slug": "prabumulih"
+  },
+  {
+    "city": "Pringsewu",
+    "slug": "pringsewu"
+  },
+  {
+    "city": "Probolinggo",
+    "slug": "probolinggo"
+  },
+  {
+    "city": "Pulang Pisau",
+    "slug": "pulang-pisau"
+  },
+  {
+    "city": "Pulau Morotai",
+    "slug": "pulau-morotai"
+  },
+  {
+    "city": "Puncak",
+    "slug": "puncak"
+  },
+  {
+    "city": "Puncak Jaya",
+    "slug": "puncak-jaya"
+  },
+  {
+    "city": "Purwakarta",
+    "slug": "purwakarta"
+  },
+  {
+    "city": "Purworejo",
+    "slug": "purworejo"
+  },
+  {
+    "city": "Raja Ampat",
+    "slug": "raja-ampat"
+  },
+  {
+    "city": "Rejang Lebong",
+    "slug": "rejang-lebong"
+  },
+  {
+    "city": "Rembang",
+    "slug": "rembang"
+  },
+  {
+    "city": "Rokan Hilir",
+    "slug": "rokan-hilir"
+  },
+  {
+    "city": "Rokan Hulu",
+    "slug": "rokan-hulu"
+  },
+  {
+    "city": "Rote Ndao",
+    "slug": "rote-ndao"
+  },
+  {
+    "city": "Sabang",
+    "slug": "sabang"
+  },
+  {
+    "city": "Sabu Raijua",
+    "slug": "sabu-raijua"
+  },
+  {
+    "city": "Salatiga",
+    "slug": "salatiga"
+  },
+  {
+    "city": "Samarinda",
+    "slug": "samarinda"
+  },
+  {
+    "city": "Sambas",
+    "slug": "sambas"
+  },
+  {
+    "city": "Samosir",
+    "slug": "samosir"
+  },
+  {
+    "city": "Sampang",
+    "slug": "sampang"
+  },
+  {
+    "city": "Sanggau",
+    "slug": "sanggau"
+  },
+  {
+    "city": "Sarolangun",
+    "slug": "sarolangun"
+  },
+  {
+    "city": "Sawahlunto",
+    "slug": "sawahlunto"
+  },
+  {
+    "city": "Sekadau",
+    "slug": "sekadau"
+  },
+  {
+    "city": "Seluma",
+    "slug": "seluma"
+  },
+  {
+    "city": "Semarang",
+    "slug": "semarang"
+  },
+  {
+    "city": "Seram Bagian Barat",
+    "slug": "seram-bagian-barat"
+  },
+  {
+    "city": "Seram Bagian Timur",
+    "slug": "seram-bagian-timur"
+  },
+  {
+    "city": "Serang",
+    "slug": "serang"
+  },
+  {
+    "city": "Serdang Bedagai",
+    "slug": "serdang-bedagai"
+  },
+  {
+    "city": "Seruyan",
+    "slug": "seruyan"
+  },
+  {
+    "city": "Siak",
+    "slug": "siak"
+  },
+  {
+    "city": "Sibolga",
+    "slug": "sibolga"
+  },
+  {
+    "city": "Sidenreng Rappang",
+    "slug": "sidenreng-rappang"
+  },
+  {
+    "city": "Sidoarjo",
+    "slug": "sidoarjo"
+  },
+  {
+    "city": "Sigi",
+    "slug": "sigi"
+  },
+  {
+    "city": "Sijunjung",
+    "slug": "sijunjung"
+  },
+  {
+    "city": "Sikka",
+    "slug": "sikka"
+  },
+  {
+    "city": "Simalungun",
+    "slug": "simalungun"
+  },
+  {
+    "city": "Simeulue",
+    "slug": "simeulue"
+  },
+  {
+    "city": "Singkawang",
+    "slug": "singkawang"
+  },
+  {
+    "city": "Sinjai",
+    "slug": "sinjai"
+  },
+  {
+    "city": "Sintang",
+    "slug": "sintang"
+  },
+  {
+    "city": "Situbondo",
+    "slug": "situbondo"
+  },
+  {
+    "city": "Sleman",
+    "slug": "sleman"
+  },
+  {
+    "city": "Solok",
+    "slug": "solok"
+  },
+  {
+    "city": "Solok Selatan",
+    "slug": "solok-selatan"
+  },
+  {
+    "city": "Soppeng",
+    "slug": "soppeng"
+  },
+  {
+    "city": "Sorong",
+    "slug": "sorong"
+  },
+  {
+    "city": "Sorong Selatan",
+    "slug": "sorong-selatan"
+  },
+  {
+    "city": "Sragen",
+    "slug": "sragen"
+  },
+  {
+    "city": "Subang",
+    "slug": "subang"
+  },
+  {
+    "city": "Subulussalam",
+    "slug": "subulussalam"
+  },
+  {
+    "city": "Sukabumi",
+    "slug": "sukabumi"
+  },
+  {
+    "city": "Sukamara",
+    "slug": "sukamara"
+  },
+  {
+    "city": "Sukoharjo",
+    "slug": "sukoharjo"
+  },
+  {
+    "city": "Sumba Barat",
+    "slug": "sumba-barat"
+  },
+  {
+    "city": "Sumba Barat Daya",
+    "slug": "sumba-barat-daya"
+  },
+  {
+    "city": "Sumba Tengah",
+    "slug": "sumba-tengah"
+  },
+  {
+    "city": "Sumba Timur",
+    "slug": "sumba-timur"
+  },
+  {
+    "city": "Sumbawa",
+    "slug": "sumbawa"
+  },
+  {
+    "city": "Sumbawa Barat",
+    "slug": "sumbawa-barat"
+  },
+  {
+    "city": "Sumedang",
+    "slug": "sumedang"
+  },
+  {
+    "city": "Sumenep",
+    "slug": "sumenep"
+  },
+  {
+    "city": "Sungai Penuh",
+    "slug": "sungai-penuh"
+  },
+  {
+    "city": "Supiori",
+    "slug": "supiori"
+  },
+  {
+    "city": "Surabaya",
+    "slug": "surabaya"
+  },
+  {
+    "city": "Surakarta",
+    "slug": "surakarta"
+  },
+  {
+    "city": "Tabalong",
+    "slug": "tabalong"
+  },
+  {
+    "city": "Tabanan",
+    "slug": "tabanan"
+  },
+  {
+    "city": "Takalar",
+    "slug": "takalar"
+  },
+  {
+    "city": "Tambrauw",
+    "slug": "tambrauw"
+  },
+  {
+    "city": "Tana Tidung",
+    "slug": "tana-tidung"
+  },
+  {
+    "city": "Tana Toraja",
+    "slug": "tana-toraja"
+  },
+  {
+    "city": "Tanah Bumbu",
+    "slug": "tanah-bumbu"
+  },
+  {
+    "city": "Tanah Datar",
+    "slug": "tanah-datar"
+  },
+  {
+    "city": "Tanah Laut",
+    "slug": "tanah-laut"
+  },
+  {
+    "city": "Tangerang",
+    "slug": "tangerang"
+  },
+  {
+    "city": "Tangerang Selatan",
+    "slug": "tangerang-selatan"
+  },
+  {
+    "city": "Tanggamus",
+    "slug": "tanggamus"
+  },
+  {
+    "city": "Tanjung Balai",
+    "slug": "tanjung-balai"
+  },
+  {
+    "city": "Tanjung Jabung Barat",
+    "slug": "tanjung-jabung-barat"
+  },
+  {
+    "city": "Tanjung Jabung Timur",
+    "slug": "tanjung-jabung-timur"
+  },
+  {
+    "city": "Tanjung Pinang",
+    "slug": "tanjung-pinang"
+  },
+  {
+    "city": "Tanjung Selor",
+    "slug": "tanjung-selor"
+  },
+  {
+    "city": "Tapanuli Selatan",
+    "slug": "tapanuli-selatan"
+  },
+  {
+    "city": "Tapanuli Tengah",
+    "slug": "tapanuli-tengah"
+  },
+  {
+    "city": "Tapanuli Utara",
+    "slug": "tapanuli-utara"
+  },
+  {
+    "city": "Tapin",
+    "slug": "tapin"
+  },
+  {
+    "city": "Tarakan",
+    "slug": "tarakan"
+  },
+  {
+    "city": "Tasikmalaya",
+    "slug": "tasikmalaya"
+  },
+  {
+    "city": "Tebing Tinggi",
+    "slug": "tebing-tinggi"
+  },
+  {
+    "city": "Tebo",
+    "slug": "tebo"
+  },
+  {
+    "city": "Tegal",
+    "slug": "tegal"
+  },
+  {
+    "city": "Teluk Bintuni",
+    "slug": "teluk-bintuni"
+  },
+  {
+    "city": "Teluk Wondama",
+    "slug": "teluk-wondama"
+  },
+  {
+    "city": "Temanggung",
+    "slug": "temanggung"
+  },
+  {
+    "city": "Ternate",
+    "slug": "ternate"
+  },
+  {
+    "city": "Tidore Kepulauan",
+    "slug": "tidore-kepulauan"
+  },
+  {
+    "city": "Timika",
+    "slug": "timika"
+  },
+  {
+    "city": "Timor Tengah Selatan",
+    "slug": "timor-tengah-selatan"
+  },
+  {
+    "city": "Timor Tengah Utara",
+    "slug": "timor-tengah-utara"
+  },
+  {
+    "city": "Toba Samosir",
+    "slug": "toba-samosir"
+  },
+  {
+    "city": "Tojo Una-Una",
+    "slug": "tojo-una-una"
+  },
+  {
+    "city": "Toli-Toli",
+    "slug": "toli-toli"
+  },
+  {
+    "city": "Tolikara",
+    "slug": "tolikara"
+  },
+  {
+    "city": "Tomohon",
+    "slug": "tomohon"
+  },
+  {
+    "city": "Toraja Utara",
+    "slug": "toraja-utara"
+  },
+  {
+    "city": "Trenggalek",
+    "slug": "trenggalek"
+  },
+  {
+    "city": "Tual",
+    "slug": "tual"
+  },
+  {
+    "city": "Tuban",
+    "slug": "tuban"
+  },
+  {
+    "city": "Tulang Bawang",
+    "slug": "tulang-bawang"
+  },
+  {
+    "city": "Tulang Bawang Barat",
+    "slug": "tulang-bawang-barat"
+  },
+  {
+    "city": "Tulungagung",
+    "slug": "tulungagung"
+  },
+  {
+    "city": "Wajo",
+    "slug": "wajo"
+  },
+  {
+    "city": "Wakatobi",
+    "slug": "wakatobi"
+  },
+  {
+    "city": "Waropen",
+    "slug": "waropen"
+  },
+  {
+    "city": "Way Kanan",
+    "slug": "way-kanan"
+  },
+  {
+    "city": "Wonogiri",
+    "slug": "wonogiri"
+  },
+  {
+    "city": "Wonosobo",
+    "slug": "wonosobo"
+  },
+  {
+    "city": "Yahukimo",
+    "slug": "yahukimo"
+  },
+  {
+    "city": "Yalimo",
+    "slug": "yalimo"
+  },
+  {
+    "city": "Yogyakarta",
+    "slug": "yogyakarta"
+  }
+]

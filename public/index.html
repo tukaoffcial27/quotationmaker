@@ -1,0 +1,336 @@
+<!DOCTYPE html>
+<html lang="id" class="scroll-smooth">
+<head>
+  <meta charset="UTF-8">
+  <title>Quotation Maker Pro — Executive Edition</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Aplikasi pembuat penawaran harga (Quotation) profesional. Fitur stempel status, hitung PPN otomatis, dan tanda tangan digital. Format PDF A4 Executive.">
+
+  <meta name="google-site-verification" content="njIkUDWT97ucMoKWITvNsIlrf_hy8i9DmwQhoPbelQw" />
+
+  <script src="https://cdn.tailwindcss.com"></script>
+  <link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@400;700&family=Manrope:wght@300;400;600;800&display=swap" rel="stylesheet">
+
+  <script>
+    tailwind.config = {
+      theme: {
+        extend: {
+          colors: {
+            bronze: '#c27c2e',      /* Warna Aksen Utama */
+            'bronze-light': '#e0a96d',
+            slate: {
+              850: '#1e293b',
+              900: '#0f172a',       /* Warna Background Hero */
+            },
+            danger: '#dc2626'
+          },
+          fontFamily: {
+            sans: ['Manrope', 'sans-serif'],
+            serif: ['Cinzel', 'serif']
+          },
+          animation: {
+            'pulse-slow': 'pulse 3s cubic-bezier(0.4, 0, 0.6, 1) infinite',
+          }
+        }
+      }
+    }
+  </script>
+</head>
+
+<body class="bg-gray-50 text-gray-800 font-sans">
+
+<div id="sticky-timer" class="fixed top-0 left-0 w-full bg-danger text-white text-center py-2 z-50 shadow-md hidden">
+  <p class="text-sm md:text-base font-bold">
+    ⏳ PENAWARAN TERBATAS EKSEKUTIF BERAKHIR: 
+    <span id="timer-display" class="bg-white text-danger px-2 py-0.5 rounded ml-2 font-mono text-lg">02:00:00</span>
+  </p>
+</div>
+
+<div class="h-10"></div>
+
+<section class="bg-slate-900 text-white py-20 px-6 relative overflow-hidden">
+  <div class="absolute top-0 left-0 w-full h-full opacity-5 bg-[url('https://www.transparenttextures.com/patterns/diagmonds-light.png')]"></div>
+
+  <div class="max-w-4xl mx-auto text-center relative z-10">
+    <div class="inline-block bg-slate-800 border border-bronze text-bronze-light px-6 py-1 rounded-full text-xs font-bold mb-8 tracking-[0.2em] uppercase shadow-lg">
+      ✦ The Standard for Professionals
+    </div>
+    
+    <h1 class="text-4xl md:text-6xl font-bold leading-tight mb-6 font-serif">
+      Menangkan Proyek Besar <br>
+      <span class="text-bronze">Dengan Penawaran Berkelas</span>
+    </h1>
+
+    <p class="text-lg text-gray-400 max-w-2xl mx-auto mb-10 font-light leading-relaxed">
+      Klien menilai bonafiditas Anda dari dokumen yang Anda kirim. Buat <strong>Quotation PDF</strong> yang rapi, akurat, dan meyakinkan dalam hitungan detik.
+    </p>
+
+    <div class="mb-10 p-6 bg-white/5 rounded-xl inline-block backdrop-blur-sm border border-bronze/30 shadow-2xl">
+      <p class="text-xs text-gray-400 mb-2 uppercase tracking-widest">Investasi Lifetime</p>
+      <div class="flex items-center justify-center gap-5">
+        <span class="line-through text-gray-500 text-xl decoration-red-500 font-serif">Rp 499.000</span>
+        <span class="text-bronze-light text-5xl font-serif font-bold">Rp 99.000</span>
+      </div>
+    </div>
+
+    <div class="flex flex-col md:flex-row gap-5 justify-center">
+      <a href="#checkout" class="bg-gradient-to-r from-bronze to-yellow-700 text-white px-8 py-4 rounded-sm font-bold text-xl hover:shadow-lg hover:shadow-bronze/40 transition transform hover:-translate-y-1 flex items-center justify-center gap-3 uppercase tracking-wide">
+        <span>💼</span> Ambil Akses Sekarang
+      </a>
+      <a href="#demo" class="border border-gray-600 text-gray-300 px-8 py-4 rounded-sm font-bold text-xl hover:bg-slate-800 transition uppercase tracking-wide">
+        Lihat Preview
+      </a>
+    </div>
+
+    <p class="text-xs text-gray-500 mt-8 flex justify-center gap-6 font-serif">
+      <span>✦ Auto-Tax Calculation</span>
+      <span>✦ Digital Signature</span>
+      <span>✦ Status Stamp</span>
+    </p>
+  </div>
+</section>
+
+<section class="bg-white border-b border-gray-200 py-12 shadow-sm relative z-20">
+  <div class="max-w-6xl mx-auto px-6">
+    <div class="grid grid-cols-2 md:grid-cols-4 gap-10 text-center divide-x divide-gray-100">
+      
+      <div class="flex flex-col items-center">
+        <span class="text-4xl font-extrabold text-slate-900 mb-1 font-serif">15k+</span>
+        <span class="text-xs text-gray-500 font-bold uppercase tracking-wide">Penawaran Dibuat</span>
+      </div>
+
+      <div class="flex flex-col items-center">
+        <span class="text-4xl font-extrabold text-bronze mb-1 font-serif">Rp 50M+</span>
+        <span class="text-xs text-gray-500 font-bold uppercase tracking-wide">Nilai Proyek Gol</span>
+      </div>
+
+      <div class="flex flex-col items-center">
+        <span class="text-4xl font-extrabold text-slate-900 mb-1 font-serif">2.000+</span>
+        <span class="text-xs text-gray-500 font-bold uppercase tracking-wide">Freelancer & Agency</span>
+      </div>
+
+      <div class="flex flex-col items-center">
+        <span class="text-4xl font-extrabold text-bronze mb-1 font-serif">4.9/5</span>
+        <span class="text-xs text-gray-500 font-bold uppercase tracking-wide">User Rating</span>
+      </div>
+
+    </div>
+  </div>
+</section>
+
+<section id="demo" class="py-20 px-6 bg-gray-50">
+  <div class="max-w-6xl mx-auto text-center">
+    <h2 class="text-3xl font-bold mb-4 text-slate-900 font-serif">Tampilan Dokumen "Mahal"</h2>
+    <p class="text-gray-600 mb-12 max-w-2xl mx-auto">
+      Desain minimalis dan tegas yang membangun kepercayaan klien sejak pandangan pertama.
+    </p>
+
+    <div class="grid md:grid-cols-3 gap-8 items-start">
+      <div class="group relative rounded shadow-2xl border border-gray-200 bg-white overflow-hidden">
+        <div class="absolute top-0 left-0 bg-slate-900 text-bronze text-xs px-3 py-1 font-bold z-10 uppercase tracking-wider">Editor Panel</div>
+        <img src="preview-quotation.jpg" alt="Editor Penawaran" class="w-full h-auto transform group-hover:scale-102 transition duration-700">
+      </div>
+      
+      <div class="group relative rounded shadow-2xl border border-gray-200 bg-white overflow-hidden">
+        <div class="absolute top-0 left-0 bg-slate-900 text-bronze text-xs px-3 py-1 font-bold z-10 uppercase tracking-wider">Hasil PDF (Sent)</div>
+        <img src="preview-quotation1.jpg" alt="Preview PDF Stempel Sent" class="w-full h-auto transform group-hover:scale-102 transition duration-700">
+      </div>
+
+      <div class="group relative rounded shadow-2xl border border-gray-200 bg-white overflow-hidden">
+        <div class="absolute top-0 left-0 bg-slate-900 text-bronze text-xs px-3 py-1 font-bold z-10 uppercase tracking-wider">Mobile View</div>
+        <img src="preview-quotation2.jpg" alt="Aplikasi di HP" class="w-full h-auto transform group-hover:scale-102 transition duration-700">
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="py-20 px-6 bg-white">
+  <div class="max-w-5xl mx-auto">
+    <h2 class="text-3xl font-bold text-center mb-16 text-slate-900 font-serif">
+      Fitur Premium untuk <span class="text-bronze">Profesional</span>
+    </h2>
+
+    <div class="grid md:grid-cols-2 gap-10 items-center">
+      <div class="space-y-8">
+        
+        <div class="flex gap-5">
+          <div class="bg-slate-900 p-3 rounded h-fit text-bronze shadow-lg">
+            <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z" /></svg>
+          </div>
+          <div>
+            <h3 class="font-bold text-xl mb-1 text-slate-900 font-serif">Stempel Status Dokumen</h3>
+            <p class="text-gray-600 text-sm leading-relaxed">
+              [cite_start]Berikan status DRAFT, SENT, atau APPROVED (Stempel ACC) pada dokumen Anda[cite: 118, 119, 120, 121]. Terlihat jelas progresnya di mata klien.
+            </p>
+          </div>
+        </div>
+
+        <div class="flex gap-5">
+          <div class="bg-slate-900 p-3 rounded h-fit text-bronze shadow-lg">
+            <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 7h6m0 10v-3m-3 3h.01M9 17h.01M9 14h.01M12 14h.01M15 11h.01M12 11h.01M9 11h.01M7 21h10a2 2 0 002-2V5a2 2 0 00-2-2H7a2 2 0 00-2 2v14a2 2 0 002 2z" /></svg>
+          </div>
+          <div>
+            <h3 class="font-bold text-xl mb-1 text-slate-900 font-serif">Auto PPN 11% & Terbilang</h3>
+            <p class="text-gray-600 text-sm leading-relaxed">
+              [cite_start]Cukup centang satu kotak, pajak terhitung otomatis[cite: 116, 117]. Fitur "Terbilang" juga otomatis muncul untuk mencegah kesalahan baca nominal.
+            </p>
+          </div>
+        </div>
+
+        <div class="flex gap-5">
+          <div class="bg-slate-900 p-3 rounded h-fit text-bronze shadow-lg">
+            <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 21V5a2 2 0 00-2-2H7a2 2 0 00-2 2v16m14 0h2m-2 0h-5m-9 0H3m2 0h5M9 7h1m-1 4h1m4-4h1m-1 4h1m-5 10v-5a1 1 0 011-1h2a1 1 0 011 1v5m-4 0h4" /></svg>
+          </div>
+          <div>
+            <h3 class="font-bold text-xl mb-1 text-slate-900 font-serif">Setup Identitas Perusahaan</h3>
+            <p class="text-gray-600 text-sm leading-relaxed">
+              [cite_start]Upload Logo dan data perusahaan sekali saja[cite: 100, 101, 104]. Sistem akan mengingat identitas profesional Anda selamanya.
+            </p>
+          </div>
+        </div>
+      </div>
+
+      <div class="bg-white p-8 rounded shadow-2xl border border-gray-100">
+        <h4 class="font-bold mb-6 text-center text-slate-900 font-serif border-b pb-4">MENGAPA PINDAH KE TOOLS INI?</h4>
+        <div class="space-y-5 text-sm">
+          <div class="flex justify-between items-center border-b border-gray-100 pb-2">
+            <span class="text-gray-500">Kirim File Excel Mentah</span>
+            <span class="text-red-500 font-bold">❌ Tidak Aman & Jelek</span>
+          </div>
+           <div class="flex justify-between items-center border-b border-gray-100 pb-2">
+            <span class="text-gray-500">Hitung Pajak Manual</span>
+            <span class="text-red-500 font-bold">❌ Rawan Salah Hitung</span>
+          </div>
+           <div class="flex justify-between items-center border-b border-gray-100 pb-2">
+            <span class="text-gray-500">Tanda Tangan Basah</span>
+            <span class="text-red-500 font-bold">❌ Lambat (Harus Print-Scan)</span>
+          </div>
+          <div class="bg-slate-900 p-5 rounded text-center mt-6">
+            <p class="font-serif font-bold text-bronze mb-1 uppercase tracking-widest">Quotation Maker Pro</p>
+            <p class="text-white text-lg">✅ CEPAT, AKURAT, BONAFIT</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="py-20 px-6 bg-gray-50">
+  <div class="max-w-5xl mx-auto text-center">
+    <h2 class="text-3xl font-bold mb-12 text-slate-900 font-serif">Workflow Sederhana</h2>
+    
+    <div class="grid md:grid-cols-4 gap-8 text-left">
+      <div class="relative pl-8 border-l border-bronze">
+        <div class="absolute -left-3 top-0 bg-slate-900 text-white w-6 h-6 rounded-full text-center font-bold text-sm leading-6 border border-bronze">1</div>
+        <h4 class="font-bold text-lg mb-2 text-slate-900 font-serif">Setup Profil</h4>
+        [cite_start]<p class="text-sm text-gray-600">Upload Logo perusahaan dan isi jabatan Anda[cite: 101, 102, 103].</p>
+      </div>
+      <div class="relative pl-8 border-l border-bronze">
+        <div class="absolute -left-3 top-0 bg-slate-900 text-white w-6 h-6 rounded-full text-center font-bold text-sm leading-6 border border-bronze">2</div>
+        <h4 class="font-bold text-lg mb-2 text-slate-900 font-serif">Input Penawaran</h4>
+        [cite_start]<p class="text-sm text-gray-600">Isi data klien, list item, dan harga. Total terhitung otomatis[cite: 106, 107, 109, 110].</p>
+      </div>
+      <div class="relative pl-8 border-l border-bronze">
+        <div class="absolute -left-3 top-0 bg-slate-900 text-white w-6 h-6 rounded-full text-center font-bold text-sm leading-6 border border-bronze">3</div>
+        <h4 class="font-bold text-lg mb-2 text-slate-900 font-serif">Finalisasi</h4>
+        [cite_start]<p class="text-sm text-gray-600">Pilih status (Sent/Approved) dan upload tanda tangan digital[cite: 118, 124].</p>
+      </div>
+      <div class="relative pl-8 border-l border-bronze">
+        <div class="absolute -left-3 top-0 bg-slate-900 text-white w-6 h-6 rounded-full text-center font-bold text-sm leading-6 border border-bronze">4</div>
+        <h4 class="font-bold text-lg mb-2 text-slate-900 font-serif">Ekspor PDF</h4>
+        [cite_start]<p class="text-sm text-gray-600">Simpan sebagai PDF (A4 Portrait). Siap kirim ke klien[cite: 128, 130, 133].</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section id="checkout" class="py-24 px-6 bg-slate-900 text-white text-center relative overflow-hidden">
+   <div class="absolute top-0 right-0 w-80 h-80 bg-bronze rounded-full mix-blend-overlay filter blur-3xl opacity-20 animate-pulse-slow"></div>
+   <div class="absolute bottom-0 left-0 w-80 h-80 bg-blue-900 rounded-full mix-blend-overlay filter blur-3xl opacity-30 animate-pulse-slow"></div>
+
+  <div class="max-w-4xl mx-auto relative z-10">
+    <h2 class="text-3xl md:text-5xl font-bold mb-6 font-serif">Upgrade Kualitas Bisnis Anda</h2>
+    <p class="text-gray-400 mb-10 text-lg">
+      Tools yang didesain untuk membantu Anda *closing* proyek lebih sering.<br>
+      Tanpa biaya bulanan. Sekali bayar untuk selamanya.
+    </p>
+
+    <div class="bg-slate-800/80 backdrop-blur-md p-10 rounded shadow-2xl max-w-lg mx-auto border border-bronze/40 mb-10 relative">
+      <div class="absolute -top-4 right-4 bg-danger text-white px-5 py-1 rounded text-sm font-bold shadow-lg uppercase tracking-wide">
+        Diskon 80%
+      </div>
+
+      <div class="flex justify-between items-end mb-4 border-b border-gray-600 pb-4">
+        <span class="text-gray-400 font-serif">Harga Agency</span>
+        <span class="line-through text-gray-500 font-serif">Rp 499.000</span>
+      </div>
+      <div class="flex justify-between items-end mb-8">
+        <span class="text-bronze font-bold text-xl animate-pulse uppercase tracking-widest">HARGA PROMO</span>
+        <span class="text-6xl font-bold text-white font-serif">Rp 99rb</span>
+      </div>
+      
+      <a href="http://lynk.id/tukastore/ekm7gmro173d/checkout" class="block w-full bg-gradient-to-r from-bronze to-yellow-700 text-white font-bold text-xl py-5 rounded hover:shadow-lg hover:shadow-bronze/50 transition transform hover:scale-105 border border-bronze-light uppercase tracking-wide">
+        DOWNLOAD SEKARANG ➔
+      </a>
+      <p class="text-xs text-gray-500 mt-4">Penawaran berakhir saat timer habis.</p>
+    </div>
+
+    <div class="text-sm text-gray-400 space-x-6 flex justify-center items-center font-serif">
+      <span class="flex items-center gap-2"><span class="text-bronze">★</span> 4.9/5 Rating</span>
+      <span>•</span>
+      <span>Garansi File Works 100%</span>
+    </div>
+  </div>
+</section>
+
+<footer class="bg-slate-950 text-gray-500 py-10 text-center text-sm border-t border-slate-900">
+  <p class="font-serif text-gray-400">© 2025 Quotation Maker Pro. All Rights Reserved.</p>
+  <p class="mt-3 text-xs">Produk digital untuk produktivitas profesional.</p>
+</footer>
+
+<script>
+  // === LOGIKA TIMER (KEY UNIK: QUOTATION) ===
+  document.addEventListener('DOMContentLoaded', function() {
+    const timerElement = document.getElementById('timer-display');
+    const stickyBar = document.getElementById('sticky-timer');
+    // Key storage dibedakan
+    const STORAGE_KEY = 'quotation_promo_endtime'; 
+    const DURATION_HOURS = 2;
+
+    stickyBar.classList.remove('hidden');
+
+    let endTime = localStorage.getItem(STORAGE_KEY);
+
+    if (!endTime) {
+      const now = new Date();
+      now.setHours(now.getHours() + DURATION_HOURS);
+      endTime = now.getTime();
+      localStorage.setItem(STORAGE_KEY, endTime);
+    }
+
+    function updateTimer() {
+      const now = new Date().getTime();
+      const distance = endTime - now;
+
+      if (distance < 0) {
+        timerElement.innerHTML = "00:00:00";
+        return;
+      }
+
+      const hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+      const minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
+      const seconds = Math.floor((distance % (1000 * 60)) / 1000);
+
+      timerElement.innerHTML = 
+        (hours < 10 ? "0" + hours : hours) + ":" + 
+        (minutes < 10 ? "0" + minutes : minutes) + ":" + 
+        (seconds < 10 ? "0" + seconds : seconds);
+    }
+
+    setInterval(updateTimer, 1000);
+    updateTimer(); 
+  });
+</script>
+
+</body>
+</html>
