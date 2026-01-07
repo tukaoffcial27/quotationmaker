@@ -1,12 +1,8 @@
 {
   "name": "quotation-pro-pseo",
   "version": "1.0.0",
-  "description": "pSEO for Quotation Maker Pro",
-  "main": "api/index.py",
   "scripts": {
     "dev": "python3 api/index.py",
-    "build": "python3 generate_pages.py"
-  },
-  "dependencies": {},
-  "devDependencies": {}
+    "build": "pip3 install pandas flask && python3 generate_pages.py"
+  }
 }

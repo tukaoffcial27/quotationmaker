@@ -1,18 +1,6 @@
-# Python
 __pycache__/
 *.py[cod]
-*$py.class
-.env
-venv/
-env/
-
-# Node
-node_modules/
-npm-debug.log*
-
-# OS
 .DS_Store
-
-# Production
-# public/ 
-# (Buka tanda pagar di atas jika Anda ingin Vercel yang men-generate folder public sendiri)
+node_modules/
+public/
+database_pseo.csv
